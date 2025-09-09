@@ -1,0 +1,46 @@
+{
+  "hash": "bd3c8b28",
+  "configHash": "eed378f4",
+  "lockfileHash": "5621bb2f",
+  "browserHash": "41d1b26e",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "24e6eaf6",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "3514f95e",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "a7984a8e",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "717748b3",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a873fe6e",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-TR7CFUFP": {
+      "file": "chunk-TR7CFUFP.js"
+    },
+    "chunk-VHW23IB5": {
+      "file": "chunk-VHW23IB5.js"
+    }
+  }
+}
